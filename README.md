@@ -12,6 +12,35 @@ All screenshots use fictional demo data.
 |---|---|---|
 | ![Manage pinned creators](docs/screenshots/manage-creators.png) | ![Settings](docs/screenshots/settings.png) | ![Mobile feed](docs/screenshots/mobile-feed.png) |
 
+<details>
+<summary><b>More pages</b></summary>
+
+**Feed filtered to broadcasts in progress**
+
+![In-progress filter](docs/screenshots/filter-in-progress.png)
+
+**Feed filtered by a favorited category**
+
+![Category filter](docs/screenshots/filter-category.png)
+
+**Managing creator groups**
+
+![Manage groups](docs/screenshots/manage-groups.png)
+
+**Keyboard shortcuts**
+
+![Keyboard shortcuts](docs/screenshots/keyboard-shortcuts.png)
+
+**Watch history rules and statistics**
+
+![Watch rules and stats](docs/screenshots/settings-watch-rules.png)
+
+**Backup, restore and account**
+
+![Stats, backup and danger zone](docs/screenshots/settings-stats-backup.png)
+
+</details>
+
 ## What it does
 
 **Browse any channel's full VOD history** — Queries Twitch's internal GraphQL API with cursor-based pagination so you can scroll through hundreds of past broadcasts, highlights, and uploads without hitting the artificial page limits of the Twitch website.
