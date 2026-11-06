@@ -2,6 +2,16 @@
 
 A self-hosted web app for browsing Twitch past broadcasts, tracking what you've watched, and playing VODs directly in the browser. Built because Twitch's own VOD page is paginated to ~20 videos and makes it impossible to dig through a streamer's full catalog.
 
+## Screenshots
+
+All screenshots use fictional demo data.
+
+![Feed view](docs/screenshots/feed.png)
+
+| Manage pinned creators | Settings | Mobile |
+|---|---|---|
+| ![Manage pinned creators](docs/screenshots/manage-creators.png) | ![Settings](docs/screenshots/settings.png) | ![Mobile feed](docs/screenshots/mobile-feed.png) |
+
 ## What it does
 
 **Browse any channel's full VOD history** — Queries Twitch's internal GraphQL API with cursor-based pagination so you can scroll through hundreds of past broadcasts, highlights, and uploads without hitting the artificial page limits of the Twitch website.

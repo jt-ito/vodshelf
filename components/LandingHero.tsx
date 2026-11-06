@@ -45,14 +45,14 @@ export default function LandingHero({ onSearchStreamer, onRecoverVodId }: Landin
       <div className="space-y-2">
         <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded-md bg-[#9146ff]/15 border border-[#9146ff]/30 text-[#bf94ff] text-xs font-semibold">
           <Film className="w-3.5 h-3.5 text-[#9146ff]" />
-          <span>Twitch Archive Gateway</span>
+          <span>VodShelf</span>
         </div>
 
         <h1 className="text-2xl sm:text-3xl font-bold text-[#efeff1] tracking-tight">
-          Past Broadcasts & Stream Archive
+          Your Twitch VOD library
         </h1>
         <p className="text-xs sm:text-sm text-[#adadb8] max-w-2xl leading-relaxed">
-          Search any Twitch channel to browse full past broadcasts beyond standard pagination caps, or probe Amazon CloudFront manifests to discover unlisted stream recordings.
+          Search any Twitch channel to browse its full past broadcasts beyond standard pagination caps, watch them in the browser and keep track of what you&apos;ve seen.
         </p>
       </div>
 

@@ -158,17 +158,17 @@ export default function Navbar({
         <button
           onClick={onSelectHome}
           className="flex items-center gap-2 sm:gap-2.5 text-left rounded-md p-1 cursor-pointer active:scale-[0.98]"
-          aria-label="Twitch VOD Archive Home"
+          aria-label="VodShelf Home"
         >
           <span className="w-8 h-8 rounded-md bg-[#9146ff] flex items-center justify-center text-white flex-shrink-0">
             <Film className="w-4 h-4" />
           </span>
           <span className="flex flex-col">
             <span className="font-bold text-sm tracking-tight text-[#efeff1] block">
-              <span className="hidden sm:inline">Twitch VOD Archive</span>
-              <span className="inline sm:hidden">Twitch VOD</span>
+              <span className="hidden sm:inline">VodShelf</span>
+              <span className="inline sm:hidden">VodShelf</span>
             </span>
-            <span className="text-[11px] text-[#767682] hidden sm:block">Past Broadcasts & Streams</span>
+            <span className="text-[11px] text-[#767682] hidden sm:block">Your VOD library</span>
           </span>
         </button>
 

@@ -42,7 +42,7 @@ export default function NotFound() {
         </div>
 
         <div className="mt-12 text-xs text-[#53535f] border-t border-[#1f1f23] pt-6 w-full flex items-center justify-center gap-4">
-          <span>Twitch VOD Archive</span>
+          <span>VodShelf</span>
           <span>•</span>
           <span>Secure Edge Gateway</span>
         </div>

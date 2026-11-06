@@ -2,9 +2,9 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Twitch VOD Archive",
-  description: "Browse Twitch past broadcasts beyond standard limits, track your watch progress, and discover unlisted stream recordings.",
-  keywords: ["Twitch VOD", "Twitch Archive", "Stream Player", "Watch History", "CloudFront HLS"],
+  title: "VodShelf",
+  description: "Browse Twitch past broadcasts beyond standard limits, track your watch progress, and keep pinned creators in one feed.",
+  keywords: ["Twitch VOD", "VOD library", "Stream Player", "Watch History"],
 };
 
 export const viewport: Viewport = {
