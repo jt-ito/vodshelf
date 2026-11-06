@@ -8,6 +8,8 @@ All screenshots use fictional demo data.
 
 ![Feed view](docs/screenshots/feed.png)
 
+![Streamer page](docs/screenshots/streamer-page.png)
+
 | Manage pinned creators | Settings | Mobile |
 |---|---|---|
 | ![Manage pinned creators](docs/screenshots/manage-creators.png) | ![Settings](docs/screenshots/settings.png) | ![Mobile feed](docs/screenshots/mobile-feed.png) |
