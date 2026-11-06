@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Dark base matching the site's #18181b surface -->
+  <rect x="2" y="2" width="28" height="28" rx="6" fill="#18181b" stroke="#2d2d34" stroke-width="1.5" />
+  
+  <!-- Subtle top film slot -->
+  <rect x="8" y="7" width="16" height="2" rx="1" fill="#2d2d34" />
+  
+  <!-- Signature Twitch Purple play icon -->
+  <polygon points="12.5,11.5 21.5,16.5 12.5,21.5" fill="#9146ff" />
+  
+  <!-- Minimalist bottom archive reels -->
+  <circle cx="11" cy="24" r="1.2" fill="#767682" />
+  <circle cx="21" cy="24" r="1.2" fill="#767682" />
+  <rect x="13.5" y="23.5" width="5" height="1" rx="0.5" fill="#3d3d46" />
+</svg>

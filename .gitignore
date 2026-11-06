@@ -1,0 +1,97 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Next.js build & outputs
+.next/
+.cache/
+public/cache/
+out/
+build/
+dist/
+
+# Environment, secrets, and private keys
+.env
+.env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.staging
+*.env
+!.env.example
+*.pem
+*.key
+*.crt
+*.cert
+*.pfx
+*.p12
+id_rsa
+id_ed25519
+*.pub
+
+# Database files & journals
+archive.db
+archive.db-journal
+archive.db-wal
+archive.db-shm
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.dump
+*.sql
+
+# Logs & debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Operating System & Editor Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE & Editor directories
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing & Coverage
+coverage/
+.nyc_output/
+
+# Deployment & cloud providers
+.vercel/
+
+# Agent / Scratchpad / Local overrides
+scratch/
+skills/
+AGENTS.md
+agents.md
+agent.md
+
+
+# Local tooling
+.claude/
